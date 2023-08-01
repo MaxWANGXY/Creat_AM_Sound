@@ -8,7 +8,6 @@ car2=625;
 am1=37;
 am2=81;
 fs=48000;
-InitializePsychSound
 dur_std=500;
 dur_dev=250;
 depth=1;
